@@ -30,62 +30,32 @@ Here are some ideas to get you started:
 Me chamo <b> Adelto Almeida</b>.
 </p>
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
-<p align="left" >
-Atualmente moro em São Paulo - BR.<br />
-Atualmente estudo na Instituição Anhanguera, curso de <b>Analista de Sistema</b>.
-</p>
-<a href="https://br.linkedin.com/in/adelto-almeida-03975928" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
-<p align="left" >
-Nas horas livres produzo conteúdos de tecnologia para as plataformas:
-</p>
-<p align="left" >
-<ul>
-  <li>Youtube </li>
-  <li>Instagram </li>
-  <li><a href="https://midianinja.org/author/herikastrongreen/">Midia Ninja </a> </li>
-  <li><a href="https://pingback.com/strongreen">Ping Back</a></li>
-</ul>
-</p>
-<p align="left" >
-🚀 Também já palestrei em eventos como:
-  <ul>
-  <li> Arduino Day </li>
-  <li> LatinoWare </li>
-</ul>
-</p>
-</p>
 
-<hr />
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628040098927.png" width="400px" />
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628051464465.png" width="400px" />
 
 - 👩‍💻 Estou cconluído o modulo de Ciência da Computação no curso que tem ênfase em **Python**;
 - Trabalhando na *@kabum* como desenvolvedora Full Stack, utilizando as stacks:
-  - Perl
   - Python
-  - Angular JS
   - Typescript
   - ReactJS
   - NodeJS
 - 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
-  - Estudar sobre hacking e Lockpick; 
-  - Gravar conteúdos;
+  - Estudar sobre hacking e Desenvolvimento; 
+  - Tocar guitarra;
   - Ler livros;
-  - Jogar League of Legends;
-- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para contato@strongreen.com.
-- 📝 Veja meu <a href="https://drive.google.com/file/d/1Bpaj349XlLLYHCVUsrIdt15Y-JP_tR57/view?usp=drivesdk" target="_blank">Currículo</a> para mais informações.
+  - Jogar Cubo Magico;
+- 📫 Se quiser pode enviar um email para contato.adtodeveloper@gmail.com
+- 📝 Veja meu <a href="" target="_blank">Currículo</a> para mais informações.
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Hérika-Ströngreen" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otleda&layout=compact&theme=graywhite&title_color=268bd2" alt="Adelto Almeida" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=strongreen&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Hérika-Ströngreen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=otleda&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Adelto Almeida" />
 </p>
 
 **Linguagens e ferramentas:**  
