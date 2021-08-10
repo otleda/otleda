@@ -15,7 +15,7 @@
     - Jogo cubo de rubik 🟥
     - assisto seriados 📺
     - toco guitarra 🎸
-    - pratico siclismo 🚴‍♂️
+    - pratico ciclismo 🚴‍♂️
     - faco um bom cafe ☕
 <br/>
 <hr/>
