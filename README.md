@@ -2,7 +2,7 @@
 <br/>
 📌
 <div  style="text-align: left">
-<p>Me chamo &nbsp;<b style="color: #f0d230">A d e l t o  &nbsp;  O l i v e i r a&nbsp;</b>, sou Desenvolvedor Front-End, e atualmente moro em   São Paulo -SP, <p>sou estundante na Anhanguera, cursando <b>ADS</b> <mark style="background-color: #8844ee; color: white">Analista de Desenvolvimento de Sistema</mark>.🎓<p/>
+<p>Me chamo &nbsp;<b style="color: #f0d230">A d e l t o  &nbsp;  O l i v e i r a &nbsp; A l m e i d a</b>, sou Desenvolvedor Front-End, e atualmente moro em   São Paulo -SP, <p>sou estundante na Anhanguera, cursando <b>ADS</b> <mark style="background-color: #8844ee; color: white">Analista de Desenvolvimento de Sistema</mark>.🎓<p/>
 </div>
 
 <p>Sou apaixonado ❤️ por tecnologia, sempre estou buscando + conhecimento na area.<p/>
