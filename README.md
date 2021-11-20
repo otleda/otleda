@@ -1,27 +1,31 @@
-## <h1 style="color: #8844ee">_Faaaaaala Deeevs_ 👋😄!</h1> 
+## <h1 style="color: #8844ee">_Hiiiiii Deeevs_ 👋😄!</h1> 
 <br/>
 📌
 <div  style="text-align: left">
-<p>Me chamo &nbsp;<b style="color: #f0d230">A d e l t o  &nbsp;  O l i v e i r a &nbsp; A l m e i d a</b>, sou Desenvolvedor Front-End,  moro em   São Paulo -SP, <p>Atualmente sou estudante na Anhanguera, cursando <b>ADS</b> <mark style="background-color: #8844ee; color: white">Analista de Desenvolvimento de Sistema</mark>.🎓<p/>
+<p>My name is &nbsp;<b style="color: #f0d230">A d e l t o  &nbsp;  O l i v e i r a &nbsp; A l m e i d a</b>, I am a Front-End Developer, I live in São Paulo -SP,
+  
+<p>I am currently a student at Anhanguera, studying <b>ADS</b> System Development Analyst.🎓<p/>
 </div>
 
-<p>Sou apaixonado ❤️ por tecnologia, sempre estou buscando + conhecimento na area.<p/>
+<p>I am passionate about technology, I am always looking for knowledge in the area.<p/>
 
 </br>
 
-- **Meu Hobby quando nao estou programando**:
-    - gosto muito de ler livro relacionado a tecnologia  📚 
-    - esculto uma boa Musica 🎧
-    - Jogo cubo de rubik 🟥
-    - assisto seriados 📺
-    - toco guitarra 🎸
-    - pratico ciclismo 🚴‍♂️
-    - faco um bom cafe ☕
-<br/>
-<hr/>
+- **My Hobby when I'm not programming**:
+    - I really like to read books related to technology  📚 
+    - I sculpt a good Music 🎧
+    - I Rubik's cube game  🟥
+    - I watch TV series 📺
+    - I play guitar 🎸
+    - I practice cycling 🚴‍♂️
+    - I make a good cafe  ☕
 <br/>
 
-### <em style="color: #f0d230 ">Me segue lá nas redes Socias </em> ⚡
+I am passionate about technology, I am always looking for knowledge in the area.
+
+<br/>
+
+### <em style="color: #f0d230 ">Follow me on networks </em> ⚡
 
 <br/>
 
