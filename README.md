@@ -1,31 +1,27 @@
-## <h1 style="color: #8844ee">_Hiiiiii Deeevs_ 👋😄!</h1> 
+## <h1 style="color: #8844ee">_Faaaaaala Devs_ 👋😄!</h1> 
 <br/>
 📌
 <div  style="text-align: left">
-<p>My name is &nbsp;<b style="color: #f0d230">A d e l t o  &nbsp;  O l i v e i r a &nbsp; A l m e i d a</b>, I am a Front-End Developer, I live in São Paulo -SP,
-  
-<p>I am currently a student at Anhanguera, studying <b>ADS</b> System Development Analyst.🎓<p/>
+<p>Me chamo &nbsp;<b style="color: #f0d230">A d e l t o  &nbsp;  O l i v e i r a&nbsp;</b>, sou Desenvolvedor Front-End, e atualmente moro em   São Paulo -SP, <p>sou estundante na Anhanguera, cursando <b>ADS</b> <mark style="background-color: #8844ee; color: white">Analista de Desenvolvimento de Sistema</mark>.🎓<p/>
 </div>
 
-<p>I am passionate about technology, I am always looking for knowledge in the area.<p/>
+<p>Sou apaixonado ❤️ por tecnologia, sempre estou buscando + conhecimento na area.<p/>
 
 </br>
 
-- **My Hobby when I'm not programming**:
-    - I really like to read books related to technology  📚 
-    - I sculpt a good Music 🎧
-    - I Rubik's cube game  🟥
-    - I watch TV series 📺
-    - I play guitar 🎸
-    - I practice cycling 🚴‍♂️
-    - I make a good cafe  ☕
+- **Meu Hobby quando nao estou programando**:
+    - gosto muito de ler livro relacionado a tecnologia  📚 
+    - esculto uma boa Musica 🎧
+    - Jogo cubo de rubik 🟥
+    - assisto seriados 📺
+    - toco guitarra 🎸
+    - pratico siclismo 🚴‍♂️
+    - faco um bom cafe ☕
+<br/>
+<hr/>
 <br/>
 
-I am passionate about technology, I am always looking for knowledge in the area.
-
-<br/>
-
-### <em style="color: #f0d230 ">Follow me on networks </em> ⚡
+### <em style="color: #f0d230 ">Me segue lá nas redes Socias </em> ⚡
 
 <br/>
 
@@ -78,12 +74,3 @@ I am passionate about technology, I am always looking for knowledge in the area.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="apache" width="40" height="40" style="padding: 5px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="padding: 5px">
 </div>
-
-
-
-
-
-
-
-
-
