@@ -23,7 +23,7 @@
     e tomar um bom cafe ☕
     
      
-<em>Me segue lá nas redes Socias </em> ⚡
+<h3>Redes Socias⚡<h3/>
 
 <a href="https://www.instagram.com/adeltomonkeycode/" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="40px" height="40px" style="padding: .5em; border:         1px solid rgba(136, 68, 238,.6); border-radius: 50%; box-shadow: 1px 2px 1px #8844ee ">
@@ -37,25 +37,17 @@
 <br/>
 
 
-
-
-   
-</div>
-
-</br>
-
 <!-- GRAPHIC START: -->
-<div style="display:flex; justify-content: space-around; flex-wrap: wrap;">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otleda&layout=compact&theme=dracula&title_color=268bd2" alt="Adelto Almeida" style="padding: 1em 0"/>
-<img  src="https://github-readme-stats.vercel.app/api?username=otleda&count_private=true&show_icons=true&theme=dracula&icon_color=268bd2&title_color=268bd2" alt="Adelto Almeida" style="padding: 1em 0"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=otleda&count_private=true&show_icons=true&theme=dracula&icon_color=268bd2&title_color=268bd2" alt="Adelto Almeida" style="padding: 1em 0"/>
 
 
 <!-- CONTAGEM DE VISITAS: -->
 <img src="https://komarev.com/ghpvc/?username=otleda" alt="Adelto Almeida" style="padding: 1em 0"/>
 
 
-<h3 style="color: #f0d230; padding: 1em 0">HARD SKILLS</h3>
+<h3>Hard Skills⚡</h3>
 
 <div style="display: flex; flex-wrap: wrap; aligh-items: center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="" width="40" reight="40" style="padding: 5px">
