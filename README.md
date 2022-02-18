@@ -1,43 +1,45 @@
-## <h1 style="color: #8844ee">_Faaaaaala Devs_ 👋😄!</h1> 
+<h2>Faaaaaala Deeeeevs 👋😄!</h2>
+
+<img alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628051464465.png" width="200px" height="auto"/>
+   
+     📌
+     tranquilidade ...
+     
+    Me chamo Adelto Oliveira, 
+    sou um futuro Desenvolvedor Front-End, atualmente moro em São Paulo -SP, 
+    frequento a 🎓 Faculdade Anhanguera, cursando ADS Analista de Desenvolvimento de Sistema.
+    e também sou autodidata, e apaixonado ❤️ por tecnologia, sempre estou buscando + conhecimento na area.
+
+<br>
+
+    Meu Hobby quando nao estou programando é :
+       
+    ler um bom livro relacionado a tecnologia 📚 
+    escultar uma boa Musica 🎧
+    jogar cubo de rubik 🟥
+    assistir seriados 📺
+    tocar minha guitarra 🎸
+    praticar ciclismo 🚴‍♂️
+    e tomar um bom cafe ☕
+    
+     
+<em>Me segue lá nas redes Socias </em> ⚡
+
+<a href="https://www.instagram.com/adeltomonkeycode/" target="_blank">
+    <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="40px" height="40px" style="padding: .5em; border:         1px solid rgba(136, 68, 238,.6); border-radius: 50%; box-shadow: 1px 2px 1px #8844ee ">
+</a>
+<a href="" target="_blank">
+    <img src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png" alt="discord" width="42px" height="42px" style="padding: .5em; border: 1px solid         rgba(136, 68, 238,.6); border-radius: 50%; box-shadow: 1px 2px 1px #8844ee">
+</a>
+<a href="" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="behance" width="40px" height="40px" style="padding: .5em;         border: 1px solid rgba(136, 68, 238,.6); border-radius: 50%; box-shadow: 1px 2px 1px #8844ee">
+</a>
 <br/>
-📌
-<div  style="text-align: left">
-<p>Me chamo &nbsp;<b style="color: #f0d230">A d e l t o  &nbsp;  O l i v e i r a&nbsp;</b>, sou Desenvolvedor Front-End, e atualmente moro em   São Paulo -SP, <p>sou estundante na Anhanguera, cursando <b>ADS</b> <mark style="background-color: #8844ee; color: white">Analista de Desenvolvimento de Sistema</mark>.🎓<p/>
-</div>
 
-<p>Sou apaixonado ❤️ por tecnologia, sempre estou buscando + conhecimento na area.<p/>
 
-</br>
 
-- **Meu Hobby quando nao estou programando**:
-    - gosto muito de ler livro relacionado a tecnologia  📚 
-    - esculto uma boa Musica 🎧
-    - Jogo cubo de rubik 🟥
-    - assisto seriados 📺
-    - toco guitarra 🎸
-    - pratico siclismo 🚴‍♂️
-    - faco um bom cafe ☕
-<br/>
-<hr/>
-<br/>
 
-### <em style="color: #f0d230 ">Me segue lá nas redes Socias </em> ⚡
-
-<br/>
-
-<!-- MY OCTOCAT: -->
-<div style="display: flex; justify-content: space-between; align-items: center">
-<div style="text-align: left">
-    <img  alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628051464465.png" width="350px" height="auto"/>
-</div>
-
-<!-- SOCIAL REDES: -->
-<div style="text-align: right;">
-<a href="https://www.instagram.com/adeltomonkeycode/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="40px" height="40px" style="padding: .5em; border: 1px solid rgba(136, 68, 238,.6); border-radius: 50%; box-shadow: 1px 2px 1px #8844ee "></a>
-<a href="https://br.linkedin.com/in/adelto-almeida-03975928" target="_blank"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="40px" height="40px" style="padding: .5em;border: 1px solid rgba(136, 68, 238,.6); border-radius: 50%; box-shadow: 1px 2px 1px #8844ee"></a>
-<a href="" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png" alt="discord" width="42px" height="42px" style="padding: .5em; border: 1px solid rgba(136, 68, 238,.6); border-radius: 50%; box-shadow: 1px 2px 1px #8844ee"></a>
-<a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="behance" width="40px" height="40px" style="padding: .5em; border: 1px solid rgba(136, 68, 238,.6); border-radius: 50%; box-shadow: 1px 2px 1px #8844ee"></a>
-</div>
+   
 </div>
 
 </br>
