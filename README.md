@@ -28,10 +28,10 @@
 <a href="https://www.instagram.com/adtdev/" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="40px" height="40px" style="padding: .5em; border:         1px solid rgba(136, 68, 238,.6); border-radius: 50%; box-shadow: 1px 2px 1px #8844ee ">
 </a>
-<a href="" target="_blank">
+<a href="https://github.com/otleda/otleda" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png" alt="discord" width="42px" height="42px" style="padding: .5em; border: 1px solid         rgba(136, 68, 238,.6); border-radius: 50%; box-shadow: 1px 2px 1px #8844ee">
 </a>
-<a href="" target="_blank">
+<a href="https://github.com/otleda/otleda" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="behance" width="40px" height="40px" style="padding: .5em;         border: 1px solid rgba(136, 68, 238,.6); border-radius: 50%; box-shadow: 1px 2px 1px #8844ee">
 </a>
 <br/>
