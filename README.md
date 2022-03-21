@@ -1,29 +1,29 @@
-<h2>Faaaaaala Deeeeevs 👋😄!</h2>
+<h2>Hi Deeeeevs 👋😄!</h2>
 
 <img alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628051464465.png" width="200px" height="auto"/>
    
      📌
-     tranquilidade ...
-     
-    Me chamo Adelto Oliveira, 
-    sou um futuro Desenvolvedor Front-End, atualmente moro em São Paulo -SP, 
-    frequento a 🎓 Faculdade Anhanguera, cursando ADS Analista de Desenvolvimento de Sistema.
-    e também sou autodidata, e apaixonado ❤️ por tecnologia, sempre estou buscando + conhecimento na area.
+     tranquility ...
+    
+    My name is Adelto Oliveira,
+    I'm a future Front-End Developer, currently I live in São Paulo -SP,
+    I attend 🎓 Faculdade Anhanguera, studying ADS System Development Analyst.
+    and I'm also self-taught, and passionate ❤️ about technology, I'm always looking for more knowledge in the area.
 
 <br>
 
-    Meu Hobby quando nao estou programando é :
+    My Hobby when I'm not programming is:
        
-    ler um bom livro relacionado a tecnologia 📚 
-    escultar uma boa Musica 🎧
-    jogar cubo de rubik 🟥
-    assistir seriados 📺
-    tocar minha guitarra 🎸
-    praticar ciclismo 🚴‍♂️
-    e tomar um bom cafe ☕
+    read a good technology-related book 📚
+    listen to good music 🎧
+    play rubik's cube   
+    watch series 📺
+    play my guitar 🎸
+    cycling 🚴‍♂️
+    and have a good coffee ☕
     
      
-<h3>Redes Socias⚡<h3/>
+<h3>Social Networks⚡<h3/>
 
 <a href="https://www.instagram.com/adtdev/" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="40px" height="40px" style="padding: .5em; border:         1px solid rgba(136, 68, 238,.6); border-radius: 50%; box-shadow: 1px 2px 1px #8844ee ">
