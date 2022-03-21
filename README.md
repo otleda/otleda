@@ -69,7 +69,9 @@
 </div>
 
 </br>
+<div style="display: flex; flex-wrap: wrap; aligh-items: center">
 <h3>technologies I want to learn⚡</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30" style="padding: 5px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="30" height="30" style="padding: 5px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" height="30" style="padding: 5px">
+</div>
