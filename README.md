@@ -69,11 +69,11 @@
 </br>
 
 <!-- GRAPHIC START: -->
-
+<div style="display: flex; flex-wrap: wrap; aligh-items: center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otleda&layout=compact&theme=dracula&title_color=268bd2" alt="Adelto Almeida" style="padding: 1em 0"/>
 <img src="https://github-readme-stats.vercel.app/api?username=otleda&count_private=true&show_icons=true&theme=dracula&icon_color=268bd2&title_color=268bd2" alt="Adelto Almeida" style="padding: 1em 0"/>
 
-</br>
 
 <!-- CONTAGEM DE VISITAS: -->
 <img src="https://komarev.com/ghpvc/?username=otleda" alt="Adelto Almeida" style="padding: 1em 0"/>
+</div>
