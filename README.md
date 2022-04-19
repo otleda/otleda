@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otleda&color=orange" alt="Profile views" /> </p>
 
-<img align="right" height="400em" src="https://raw.githubusercontent.com/gist/otleda/19d7138635f92882c5b737a1c59cabd3/raw/22a96180adb5104f66293d62735a2021c7d61bdf/crachaMascote.svg"/>
+<img align="right" height="400em" src="https://raw.githubusercontent.com/gist/otleda/1561d55d609de214d1ba88812b8ed609/raw/f198547cc1ea84e5bf613f650ef9bf5b1cace586/mascote.svg"/>
 
 <div style="width: 70%">
 
