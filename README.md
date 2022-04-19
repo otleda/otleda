@@ -1,79 +1,98 @@
-<h2>Hi Deeeeevs 👋😄!</h2>
+<!-- ABOUT -->
+## 👨‍💻 Um pouco de mim ...
 
-<img alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628051464465.png" width="200px" height="auto"/>
-   
-     📌
-     tranquility ...
-    
-    My name is Adelto Oliveira,
-    I'm a future Front-End Developer, currently I live in São Paulo -SP,
-    I attend 🎓 Faculdade Anhanguera, studying ADS System Development Analyst.
-    and I'm also self-taught, and passionate ❤️ about technology, I'm always looking for more knowledge in the area.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=otleda&color=orange" alt="Profile views" /> </p>
+
+<img align="right" height="400em" src="https://raw.githubusercontent.com/gist/otleda/19d7138635f92882c5b737a1c59cabd3/raw/22a96180adb5104f66293d62735a2021c7d61bdf/crachaMascote.svg"/>
+
+<div style="width: 70%">
+
+<h2 align="left">Faaala Deeevs <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">😄, Eu sou Adelto Oliveira</h2>
+
+Atualmente estudo ADS - Analista de Desenvolvimento de Sistema na Faculdade [Anhanguera](https://www.colaboraread.com.br/), mas sempre fui autodidata de longas datas.🚀 
+
+Quando não estou programando, com tempo livre, eu pratico :
+
+- ciclismo com meus amigos  🚴‍♂️
+
+- esculto uma boa musica 🎧
+
+- gosto de ler um bom livro 📚
+ 
+- jogo cubo de Rubik 🕹️
+
+- adoro passear com meu cachorro 🦮
+
+- toco minha guitarra 🎸
+
+- e ❤️ um bom café  ☕
+
+
+... Nós Programadore(a)s, somos pessoas normais. 😅 
+
+## 🔎 &nbsp; O que voçê vai encontrar aqui ...
+
+- Pequenos projetos pessoais
+- Alguns forks de outros projetos buscando melhorias
+- Alguns estudos de casos, de alguma stacks
+- Projetos em andamentos
+
+</div>
+
+<!-- SKILLS: -->
+## ⚙️ &nbsp; Minhas Habilidades Atualmente
+
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Vim](https://img.shields.io/badge/-Viml%20Studio%20Code-05122A?style=flat&logo=vim&logoColor=007ACC)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
+![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
+
+
+<!-- STUDING: -->
+## 📚 &nbsp; Tecnologias que estou estudando ...
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+![Dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=dart)&nbsp;
+![Flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+
+
+
+<!-- GRAPHIC STATUS: -->
+## 📊 &nbsp; Status do que ando fazendo por aqui ...
+
+<img src="https://github-readme-stats.vercel.app/api?username=otleda&count_private=true&show_icons=true&theme=dracula&icon_color=268bd2&title_color=268bd2" alt="Adelto Almeida" style="padding: 1em 0"/>
 
 <br>
 
-    My Hobby when I'm not programming is:
-       
-    read a good technology-related book 📚
-    listen to good music 🎧
-    play rubik's cube   
-    watch series 📺
-    play my guitar 🎸
-    cycling 🚴‍♂️
-    and have a good coffee ☕
-    
-     
-<h3>Social Networks⚡<h3/>
-
-<a href="https://www.instagram.com/adtdev/" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="40px" height="40px" style="padding: .5em; border:         1px solid rgba(136, 68, 238,.6); border-radius: 50%; box-shadow: 1px 2px 1px #8844ee ">
-</a>
-<a href="https://github.com/otleda/otleda" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png" alt="discord" width="42px" height="42px" style="padding: .5em; border: 1px solid         rgba(136, 68, 238,.6); border-radius: 50%; box-shadow: 1px 2px 1px #8844ee">
-</a>
-<a href="https://www.behance.net/adtoUxUiDesign" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="behance" width="40px" height="40px" style="padding: .5em;         border: 1px solid rgba(136, 68, 238,.6); border-radius: 50%; box-shadow: 1px 2px 1px #8844ee">
-</a>
-   
-</br>
-
-<h3>Hard Skills⚡</h3>
-
-<div style="display: flex; flex-wrap: wrap; aligh-items: center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="" width="40" reight="40" style="padding: 5px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="" width="40" reight="40" style="padding: 5px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javaScritpt" width="30" reight="30" style="padding: 5px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-plain.svg" alt="" width="30" reight="30" style="padding: 5px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="" width="40" reight="40" style="padding: 5px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="" width="40" reight="40" style="padding: 5px">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="padding: 5px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" style="padding: 5px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" style="padding: 5px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" style="padding: 5px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40" style="padding: 5px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="apache" width="40" height="40" style="padding: 5px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="padding: 5px">
-</div>
-
-</br>
-
-<div style="display: flex; flex-wrap: wrap; aligh-items: center">
-<h3>Technologies I want to learn⚡</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30" style="padding: 5px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="30" height="30" style="padding: 5px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" height="30" style="padding: 5px">
-</div>
-
-</br>
-
-<!-- GRAPHIC START: -->
-<div style="display: flex; flex-wrap: wrap; aligh-items: center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otleda&layout=compact&theme=dracula&title_color=268bd2" alt="Adelto Almeida" style="padding: 1em 0"/>
-<img src="https://github-readme-stats.vercel.app/api?username=otleda&count_private=true&show_icons=true&theme=dracula&icon_color=268bd2&title_color=268bd2" alt="Adelto Almeida" style="padding: 1em 0"/>
 
 
-<!-- CONTAGEM DE VISITAS: -->
-<img src="https://komarev.com/ghpvc/?username=otleda" alt="Adelto Almeida" style="padding: 1em 0"/>
-</div>
+<!-- SOCIAL MEDIA: -->
+## 🤝 &nbsp; Me encontra nas redes sociais.
+<a href="https://codepen.io/MonkeyCode-Otleda/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/otleda-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/adelto-almeida-03975928/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-adelto_almeida-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>&nbsp;
+<a href="https://instagram.com/adtodev" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-adtodev-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>&nbsp;
+<a href="https://www.behance.net/adtoUxUiDesign" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-adtoUxUiDesign-05122A?style=flat&logo=behance" alt="behance"/>
+</a>&nbsp;
+
+
