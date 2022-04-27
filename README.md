@@ -81,7 +81,7 @@ Quando não estou programando, com tempo livre, eu pratico :
 
 
 <!-- SOCIAL MEDIA: -->
-## 🤝 &nbsp; Me encontra nas redes sociais.
+## 🤝 &nbsp; Me encontre lá, nas Redes Sociais.
 <a href="https://codepen.io/MonkeyCode-Otleda/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/otleda-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>&nbsp;
