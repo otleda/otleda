@@ -85,6 +85,9 @@ Quando não estou programando, com tempo livre, eu pratico :
 <a href="https://codepen.io/MonkeyCode-Otleda/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/otleda-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>&nbsp;
+<a href="https://https://gitlab.com/otleda" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-gitlab-05122A?style=flat&logo=gitlab" alt="gitlab"/>
+</a>&nbsp;
 <a href="https://www.linkedin.com/in/adelto-almeida-03975928/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-adelto_almeida-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>&nbsp;
