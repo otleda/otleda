@@ -1,7 +1,7 @@
 <!-- ABOUT -->
 ## 👨‍💻 Um pouco de mim ...
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=otleda&color=orange" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=otleda&color=blue" alt="Profile views" /> </p>
 
 <img align="right" height="400em" src="https://raw.githubusercontent.com/gist/otleda/1561d55d609de214d1ba88812b8ed609/raw/f198547cc1ea84e5bf613f650ef9bf5b1cace586/mascote.svg"/>
 
