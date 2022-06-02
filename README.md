@@ -7,7 +7,7 @@
 
 <div style="width: 70%">
 
-<h2 align="left">Faaala Deeevs <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">😄, Eu sou Adelto Oliveira</h2>
+<h2 align="left">Faaala Deeevs 😄, sou Adelto Oliveira</h2>
 
 Atualmente estudo ADS - Analista de Desenvolvimento de Sistema na Faculdade [Anhanguera](https://www.colaboraread.com.br/), mas sempre fui autodidata de longas datas.🚀 
 
